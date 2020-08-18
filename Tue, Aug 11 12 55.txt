@@ -1,0 +1,1 @@
+esh/AppData/Local/Programs/Python/Python38-32/python.exe c:/Users/fresh/Documents/coding/function.py
