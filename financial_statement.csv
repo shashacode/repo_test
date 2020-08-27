@@ -1,0 +1,59 @@
+deposit,credit, 20000, atha, same as sender, no comment
+withdrawal,debit, 3000, atha, same as sender, no comment
+transfer,debit, 2000, bolu, same as sender, flexing
+deposit,credit, 20000, atha, same as sender, no comment
+withdrawal,debit, 3000, atha, same as sender, no comment
+transfer,debit, 2000, bolu, same as sender, flexing
+transfer,credit, 2000, <__main__.Account object at 0x03657220>, same as sender, flexing
+deposit,credit, 20000, atha, same as sender, no comment
+withdrawal,debit, 3000, atha, same as sender, no comment
+transfer,debit, 2000, bolu, same as sender, flexing
+transfer,credit, 2000, <__main__.Account object at 0x034E7220>, same as sender, flexing
+deposit,credit, 20000, atha, same as sender, no comment
+withdrawal,debit, 3000, atha, same as sender, no comment
+transfer,debit, 2000, bolu, same as sender, flexing
+transfer,credit, 2000, <__main__.Account object at 0x02E77208>, same as sender, flexing
+deposit,credit, 20000, atha, same as sender, no comment
+withdrawal,debit, 3000, atha, same as sender, no comment
+transfer,debit, 2000, bolu, same as sender, flexing
+transfer,credit, 2000, <__main__.Account object at 0x00EF7208>, same as sender, flexing
+deposit,credit, 20000, atha, same as sender, no comment
+withdrawal,debit, 3000, atha, same as sender, no comment
+transfer,debit, 2000, bolu, same as sender, flexing
+transfer,credit, 2000, <__main__.Account object at 0x02DDF730>, same as sender, flexing
+deposit,credit, 20000, atha, same as sender, no comment
+withdrawal,debit, 3000, atha, same as sender, no comment
+transfer,debit, 2000, bolu, same as sender, flexing
+transfer,credit, 2000, <__main__.Account object at 0x052622E0>, same as sender, flexing
+deposit,credit, 20000, atha, same as sender, no comment
+withdrawal,debit, 3000, atha, same as sender, no comment
+transfer,debit, 2000, bolu, same as sender, flexing
+transfer,credit, 2000, <__main__.Account object at 0x04640E20>, same as sender, flexing
+deposit,credit, 20000, atha, same as sender, no comment
+withdrawal,debit, 3000, atha, same as sender, no comment
+transfer,debit, 2000, bolu, same as sender, flexing
+transfer,credit, 2000, <__main__.Account object at 0x0446AE50>, same as sender, flexing
+deposit,credit, 20000, atha, same as sender, no comment
+withdrawal,debit, 3000, atha, same as sender, no comment
+transfer,debit, 2000, bolu, same as sender, flexing
+transfer,credit, 2000, <__main__.Account object at 0x01B5F730>, same as sender, flexing
+deposit,credit, 20000, atha, same as sender, no comment
+withdrawal,debit, 3000, atha, same as sender, no comment
+transfer,debit, 2000, bolu, same as sender, flexing
+transfer,credit, 2000, atha, same as sender, flexing
+deposit,credit, 20000, atha, same as sender, no comment
+withdrawal,debit, 3000, atha, same as sender, no comment
+transfer,debit, 2000, bolu, same as sender, flexing
+transfer,credit, 2000, atha, same as sender, flexing
+deposit,credit, 20000, atha, atha, no comment
+withdrawal,debit, 3000, atha, atha, no comment
+transfer,debit, 2000, atha, bolu, flexing
+transfer,credit, 2000, bolu, atha, flexing
+deposit,credit, 20000, atha, atha, no comment
+withdrawal,debit, 3000, atha, atha, no comment
+transfer,debit, 2000, atha, bolu, flexing
+transfer,credit, 2000, bolu, atha, flexing
+deposit,credit, 20000, atha, no comment, atha
+withdrawal,debit, 3000, atha, no comment, atha
+transfer,debit, 2000, atha, flexing, bolu
+transfer,credit, 2000, bolu, flexing, atha

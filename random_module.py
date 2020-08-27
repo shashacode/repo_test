@@ -27,4 +27,4 @@ print(f"enter to roll Die1 : {die1}", f"Die2 : {die2}")
 #     die2 = random.randint(1,6)
 
 #     input("press enter to roll")
-#     print(f"Die-1 : {die1}", f"Die-2 : {die2}")
+#     print(f"Die-1 : {die1}", f"Die-2 : {die2}")(

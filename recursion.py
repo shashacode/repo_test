@@ -39,18 +39,21 @@
 
 
 # v = []
-# for v in range(1, 20):
-#     print(v)
-# v = int(1,2,3,4,5,6,7,8,9)
-# p = []
-# p = number
-# for p in range(1, 20):
+for v in range(1, 21):
+    pass
+    if (v%1)== 0 & (v%v)== 1:
+        print(v)
+    # 
+#     pass
+# v = ('1,2,3,4,5,6,7,8,9')
+    # for p in v:
 #     pass  
 
-    # 
-# v = int(3)
-# if :
-#     p == v%v=0
+# if v%2 == 0:
+#         print(p)
+#         # if v%
+
+
 #     print(v)
 # def prime(.number, 1):
 #     1 = number//1
@@ -69,18 +72,18 @@
 # t = prime(7)
 # print(t)
 
-def odd(n):
-    answer = n - 1
-    return(answer)
+# def odd(n):
+#     answer = n - 1
+#     return(answer)
 
-n = []
-for n in range(1,20):
-    # print(n)
-    pass
-p = []
-p = odd(n)
-print(p)
+# n = []
+# for n in range(1,20):
+#     # print(n)
+#     pass
+# p = []
+# p = odd(n)
+# print(p)
 
-# n =int()
-for i in range(n,20,2):
-    print(i)
+# # n =int()
+# for i in range(n,20,2):
+#     print(i)

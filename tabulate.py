@@ -20,3 +20,15 @@ print(type(dictionary))
 #     weather = file.read
 #     for temp in weather:
 #         print(temp)
+
+
+# import citylist
+
+# print(len(citylist.citylist))
+
+# for city in citylist:
+#     print(city.keys())
+#     print (city['name'], city['country'])
+#     break
+#     if city['name'] == 'lagos':
+#         print(True, city['country'])
